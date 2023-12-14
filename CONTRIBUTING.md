@@ -49,6 +49,6 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 ## License
 
-By contributing, you agree that your contributions will be licensed under the [LICENSE](LICENSE.md) file.
+By contributing, you agree that your contributions will be licensed under the [LICENSE](LICENSE) file.
 
 Thank you for contributing to DevOps Practice Projects! 🚀
