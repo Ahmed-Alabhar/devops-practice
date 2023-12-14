@@ -180,6 +180,12 @@ This repository contains practice projects for learning DevOps concepts. Below i
       4. **Coordination and Teamwork Challenges**
          - Address challenges related to coordination and teamwork in a DevOps context.
 
+
+## Contributing
+
+If you want to contribute to this project, please read the [Contribution Guidelines](CONTRIBUTING.md).
+
+
 ## Challenges
 - [Capstone Project](#)
 
