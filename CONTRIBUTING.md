@@ -22,25 +22,33 @@ git push origin feature/my-contribution
 ```
 Open a pull request on the main repository.
 
-#Contribution Guidelines
-##Practice Project Ideas
+# Contribution Guidelines
+
+## Practice Project Ideas
+
 We encourage contributors to suggest practice project ideas related to each chapter. These projects should cover the content comprehensively and help learners apply their knowledge. Follow the template below when suggesting a new practice project:
 
-##Project Title
-Chapter(s): Mention the relevant chapter(s) for this project.
-Description: Provide a brief overview of the project.
-Tasks: List the specific tasks or goals of the project.
-Additional Information: Add any extra details or context.
-##Coding Standards
+### Project Title
+
+- **Chapter(s):** Mention the relevant chapter(s) for this project.
+- **Description:** Provide a brief overview of the project.
+- **Tasks:** List the specific tasks or goals of the project.
+- **Additional Information:** Add any extra details or context.
+
+## Coding Standards
+
 Please adhere to the following coding standards:
-Follow PEP 8 style guide for Python code.
-Write clear and concise commit messages.
-Include comments where necessary to explain complex logic.
-#Issue Reporting
+
+- Follow PEP 8 style guide for Python code.
+- Write clear and concise commit messages.
+- Include comments where necessary to explain complex logic.
+
+# Issue Reporting
+
 If you encounter any issues or have suggestions for improvement, please open an issue on the GitHub repository.
 
+## License
 
-License
-By contributing, you agree that your contributions will be licensed under the LICENSE file.
+By contributing, you agree that your contributions will be licensed under the [LICENSE](LICENSE.md) file.
 
 Thank you for contributing to DevOps Practice Projects! 🚀
