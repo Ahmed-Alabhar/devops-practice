@@ -32,10 +32,16 @@ Before starting the project on a server, you'll need to set up a few prerequisit
    sudo apt-get install git  # For Ubuntu/Debian
    sudo yum install git      # For CentOS
 5. **Flask Dependencies:**
-   - Install dependencies specified in the `requirements.txt` file.
+   - Install Flask using the following command:
 
-   ```bash
-   pip install -r requirements.txt
+     ```bash
+     pip install Flask
+     ```
+     - Install dependencies specified in the `requirements.txt` file.
+
+     ```bash
+     pip install -r requirements.txt
+   
 6. **Web Server (Optional):**
    - Depending on your deployment strategy, you may need a web server such as Nginx or Apache to serve your Flask application. This is optional for development, but necessary for production.
 
