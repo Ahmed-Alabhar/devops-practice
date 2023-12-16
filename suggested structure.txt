@@ -1,0 +1,32 @@
+devops-training-project/
+|-- app/
+|   |-- static/
+|   |   |-- css/
+|   |   |   |-- main.css
+|   |   |-- js/
+|   |       |-- main.js
+|   |-- templates/
+|       |-- index.html
+|       |-- file_management.html
+|       |-- process_management.html
+|       |-- package_management.html
+|       |-- system_configuration.html
+|       |-- additional_features.html
+|-- scripts/
+|   |-- file_operations.py
+|   |-- process_management.py
+|   |-- package_management.py
+|   |-- system_configuration.py
+|-- config/
+|   |-- config.ini
+|-- tests/
+|   |-- test_file_operations.py
+|   |-- test_process_management.py
+|   |-- test_package_management.py
+|   |-- test_system_configuration.py
+|-- requirements.txt
+|-- README.md
+|-- .gitignore
+|-- run.py
+|-- config.py
+|-- utils.py
