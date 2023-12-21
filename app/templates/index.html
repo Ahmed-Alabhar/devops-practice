@@ -6,6 +6,11 @@
     <title>Hello Flask</title>
 </head>
 <body>
-    <h1>{{ message }}</h1>
+    <h1>Todos</h1>
+    {% for todo in todos %}
+        <li>{{ todo }}</li>
+    {% endfor %}
+
+
 </body>
 </html>
