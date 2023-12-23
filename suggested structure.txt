@@ -36,11 +36,11 @@ Explanation:
 
 app/: Contains the Flask application files. intial files __init__.py , run.py
 
-static/: Static files such as CSS and JavaScript.
+static/: Static files such as CSS and JavaScript. 
 templates/: HTML templates for different sections of the application.
 scripts/: Python scripts for different functionalities.
 
-file_operations.py: Functions related to file operations and directory management.
+file_operations.py: Functions related to file and directory management.
 process_management.py: Functions related to process management.
 package_management.py: Functions related to package management.
 system_configuration.py: Functions related to system configuration.
