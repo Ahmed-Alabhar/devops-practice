@@ -1,5 +1,6 @@
 devops-training-project/
 |-- app/
+|   |-- run.py
 |   |-- static/
 |   |   |-- css/
 |   |   |   |-- main.css
@@ -27,14 +28,13 @@ devops-training-project/
 |-- requirements.txt
 |-- README.md
 |-- .gitignore
-|-- run.py
 |-- config.py
 |-- utils.py
 
 
 Explanation:
 
-app/: Contains the Flask application files.
+app/: Contains the Flask application files. intial files __init__.py , run.py
 
 static/: Static files such as CSS and JavaScript.
 templates/: HTML templates for different sections of the application.
@@ -60,6 +60,7 @@ README.md: Project documentation with instructions, setup details, and usage gui
 .gitignore: Specifies files and folders to be ignored by version control.
 
 run.py: Main script to run the Flask application.
+__init__.py: Imports flask library and creates flask app
 
 config.py: Configuration file for Flask.
 
